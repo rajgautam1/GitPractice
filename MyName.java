@@ -5,6 +5,7 @@ public class MyName {
 		
 System.out.println("My name is Raj.");
 System.out.println(" I live in NC");
+		System.out.println(" I am from Nepal");
 	}
 
 }

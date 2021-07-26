@@ -8,6 +8,7 @@ Scanner scan = new Scanner(System.in);
 int age = scan.nextInt();
 
 System.out.println("Age : "  + age);
+		System.out.println(" Somebody can tell me your date of birth.");
 	}
 
 }
